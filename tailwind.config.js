@@ -1,0 +1,68 @@
+const colors = require('tailwindcss/colors')
+module.exports = {
+	purge: { content: ['./public/**/*.html', './src/**/*.vue'] },
+	darkMode: false, // or 'media' or 'class'
+	theme: {
+		colors: {
+			transparent: 'transparent',
+			current: 'currentColor',
+			'primary': {
+				DEFAULT: '#F067A1',
+				'50': '#FFFFFF',
+				'100': '#FFFFFF',
+				'200': '#FEF2F7',
+				'300': '#F9C4DA',
+				'400': '#F595BE',
+				'500': '#F067A1',
+				'600': '#EB3984',
+				'700': '#DB1669',
+				'800': '#AD1153',
+				'900': '#7F0C3D',
+			},
+			'secondary': {
+				DEFAULT: '#5EC9E0',
+				'50': '#FFFFFF',
+				'100': '#FFFFFF',
+				'200': '#DEF4F9',
+				'300': '#B4E6F0',
+				'400': '#89D7E8',
+				'500': '#5EC9E0',
+				'600': '#33BBD8',
+				'700': '#239BB5',
+				'800': '#1B778A',
+				'900': '#125260'
+			},
+			'white': {
+				DEFAULT: '#FFFFFF',
+				'50': '#FFFFFF',
+				'100': '#FFFFFF',
+				'200': '#FFFFFF',
+				'300': '#FFFFFF',
+				'400': '#FFFFFF',
+				'500': '#FFFFFF',
+				'600': '#E6E6E6',
+				'700': '#CCCCCC',
+				'800': '#B3B3B3',
+				'900': '#999999',
+			},
+			'black': {
+				DEFAULT: '#000000',
+				'50': '#737373',
+				'100': '#666666',
+				'200': '#4D4D4D',
+				'300': '#333333',
+				'400': '#1A1A1A',
+				'500': '#000000',
+				'600': '#000000',
+				'700': '#000000',
+				'800': '#000000',
+				'900': '#000000',
+			},
+		},
+		extend: {},
+	},
+	variants: {
+		extend: {},
+	},
+	plugins: [],
+}
