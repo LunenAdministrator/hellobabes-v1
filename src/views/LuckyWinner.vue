@@ -1,5 +1,5 @@
 <template>
-	<div class="mx-auto container lg:mt-50 mt-10 px-4 lg:px-0">
+	<div class="mx-auto container lg:mt-50 px-4 lg:px-0">
 		<div class="lg:flex justify-center">
 			<div class="lg:w-2/5">
 				<div
