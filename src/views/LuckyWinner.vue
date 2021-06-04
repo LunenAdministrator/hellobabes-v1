@@ -36,7 +36,7 @@
 				<div class="w-full">
 					<img
 						class="h-full w-full object-cover object-center"
-						src="https://i.pinimg.com/originals/98/1d/75/981d759a261d2ec6720d1f17ca9734c9.png"
+						src="https://lh3.googleusercontent.com/_KePvPygu4x5F6sVU_qEnMTFFXE5h8bmmIE6vIvqg5xZLqOqltQyeUOBLcdEVlSBF46p3W6H805S1y8BhZbM6mn3n7QcJOZ0YYOkgYp4A-qxfDzC5wTqYJcoud93Yl8tHMpftZ4sIw=w2400"
 						alt=""
 					/>
 				</div>
