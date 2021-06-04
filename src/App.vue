@@ -78,108 +78,42 @@
 					class="visible xl:hidden flex items-center text-primary-700 font-medium text-normal  "
 				>
 					<ul
-						class="p-2 border-r bg-primary-400 bg-opacity-25 absolute rounded top-0 left-0 right-0 shadow mt-16 md:mt-16 hidden"
+						class="p-2 border-r bg-primary-400 absolute rounded top-0 left-0 right-0 shadow mt-16 md:mt-16 hidden"
 					>
 						<li
 							class="flex xl:hidden cursor-pointer text-primary-600 text-base leading-3 tracking-normal mt-2 py-3 focus:outline-none"
 						>
 							<div class="flex items-center">
-								<span class="leading-6 ml-2 font-bold">
+								<router-link to="/" class="leading-6 ml-2 font-bold">
 									Home
-								</span>
+								</router-link>
 							</div>
 						</li>
 						<li
 							class="xl:hidden flex-col cursor-pointer text-primary-600 text-base leading-3 tracking-normal py-3 focus:outline-none flex justify-center"
-							@click="dropdownHandler($event)"
+
 						>
 							<div class="flex items-center">
-								<span class="leading-6 ml-2 font-bold">
+								<router-link to="luckywinner" class="leading-6 ml-2 font-bold">
 									Products
-								</span>
+								</router-link>
 							</div>
-							<ul class="ml-2 mt-3 hidden">
-								<li
-									class="cursor-pointer text-primary-600 text-sm leading-3 tracking-normal py-3 hover:bg-indigo-700 hover:text-white px-3 font-normal"
-								>
-									Hellobabes hair vitamin
-								</li>
-								<li
-									class="cursor-pointer text-primary-600 text-sm leading-3 tracking-normal py-3 hover:bg-indigo-700 hover:text-white px-3 font-normal inline-flex"
-								>
-									Hellobabes
-									<svg
-										xmlns="http://www.w3.org/2000/svg"
-										class="h-4 w-4"
-										fill="none"
-										viewBox="0 0 24 24"
-										stroke="currentColor"
-									>
-										<path
-											stroke-linecap="round"
-											stroke-linejoin="round"
-											stroke-width="2"
-											d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-										/>
-									</svg>
-								</li>
-								<li
-									class="cursor-pointer text-primary-600 text-sm leading-3 tracking-normal py-3 hover:bg-indigo-700 hover:text-white px-3 font-normal"
-								>
-									The Blooms
-								</li>
-							</ul>
 						</li>
 						<li
 							class="xl:hidden cursor-pointer text-primary-600 text-base leading-3 tracking-normal py-3 hover:text-indigo-700 flex items-center focus:text-indigo-700 focus:outline-none"
 						>
-							<span class="leading-6 ml-2 font-bold">
-								Join us
-							</span>
+							<router-link to="/faq" class="leading-6 ml-2 font-bold">
+								What's New ?
+							</router-link>
 						</li>
 						<li
 							class="xl:hidden cursor-pointer text-primary-600 text-base leading-3 tracking-normal mb-2 py-3 hover:text-indigo-700 flex items-center focus:text-indigo-700 focus:outline-none"
 						>
-							<span class="leading-6 ml-2 font-bold">
+							<router-link to="/about" class="leading-6 ml-2 font-bold">
 								About us
-							</span>
+							</router-link>
 						</li>
-						<li
-							class="ml-2 cursor-pointer text-primary-600 text-sm leading-3 tracking-normal mt-2 py-2  flex items-center focus:outline-none"
-						>
-							<div class="flex items-center">
-								<div
-									class="w-12 cursor-pointer flex text-sm border-2 border-transparent rounded focus:outline-none transition duration-150 ease-in-out hover:text-white"
-								>
-									<div class="ec-cart-widget"></div>
 
-								</div>
-
-								<div class="flex items-center hover:text-white">
-									<svg
-										:xmlns="xmlns"
-										class="icon icon-tabler icon-tabler-user"
-										width="24"
-										height="24"
-										viewBox="0 0 24 24"
-										stroke-width="1.5"
-										stroke="currentColor"
-										fill="none"
-										stroke-linecap="round"
-										stroke-linejoin="round"
-									>
-										<path stroke="none" d="M0 0h24v24H0z" />
-										<circle cx="12" cy="7" r="4" />
-										<path
-											d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2"
-										/>
-									</svg>
-									<span class="leading-6 ml-2">
-										Profile
-									</span>
-								</div>
-							</div>
-						</li>
 					</ul>
 					<svg
 						@click="MenuHandler($event, true)"
