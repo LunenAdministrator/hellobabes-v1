@@ -103,3 +103,11 @@
 		</div>
 	</section>
 </template>
+<script>
+	export default {
+		name: 'About',
+		mounted() {
+			document.title = 'About us  | HelloBabes'
+		},
+	}
+</script>

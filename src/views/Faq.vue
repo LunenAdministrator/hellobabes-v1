@@ -196,5 +196,10 @@
 <script>
 	export default {
 		name: 'Faq',
+		mounted(){
+
+			document.title = 'What New? | HelloBabes'
+
+		},
 	}
 </script>

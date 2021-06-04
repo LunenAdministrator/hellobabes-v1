@@ -14,10 +14,17 @@
 						<div
 							class="lg:text-2xl text-base tracking-tight f-f-l text-primary-700 lg:leading-8"
 						>
-							Vestibulum placerat scelerisque turpis, ut laoreet
-							erat varius ut. Phasellus eleifend vitae augue a
-							accumsan. Sed eu semper.
+							Purchase/Orders minimum of One box and above
+							Hellobabes Hair Vitamin from hellobabes online store
+							to stand a chance to win hair scrunchy & sampul
+							raya. If you buy 2 Hellobabes and above. You can
+							paper bag Officially relased by Hellobabes, hair
+							Scrunchy and duit Raya By Hellobabes worth up to
+							RM200!!. Dont Wait Just Click Button For Participate
 						</div>
+						<span class="text-sm font-bold text-center mt-5">
+							Contest period is from 5th till 11th June 2021.
+						</span>
 						<div
 							class="ecsp ecsp-SingleProduct-v2 ecsp-Product ec-Product-355318206 mdi mdi-cart -ml-2 text-base md:text-xl lg:text-2xl lg:leading-5 f-f-l underline text-left font-bold focus:outline-none text-black-color mt-4 md:mt-6 lg:mt-8"
 							itemtype="http://schema.org/Product"
@@ -168,10 +175,8 @@
 <script>
 	export default {
 		name: 'LuckyWinner',
+		mounted() {
+			document.title = 'Promotions | HelloBabes'
+		},
 	}
 </script>
-<style scoped>
-	.custom-width_about_us {
-		width: 440px;
-	}
-</style>

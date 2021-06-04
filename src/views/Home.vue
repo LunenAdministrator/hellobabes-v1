@@ -155,7 +155,7 @@
 				<div class="sliderAx h-5/6 px-2 py-5">
 					<div id="slider-1" class="mx-auto">
 						<div
-							class="bg-cover md:bg-center bg-center-left  h-auto text-white py-24 px-10 object-fill"
+							class="bg-cover md:bg-center bg-center-left  h-screen text-white py-24 px-10 object-fill"
 							style="background-image: url(https://lh3.googleusercontent.com/905j9pNEx6GgQXirhPXagnnNDtsiULLPIDENga-CXxMqWRKQMYnJc1oiQi8DUDRWtdSfYYBsNomsYxJsnDgLhimpVthlhp-eDCyu2hZF-RN8L3a8oBk82zbOQjzsqs-6HITOLhpMig=w2400)"
 						>
 							<div class="md:w-1/2 md:hidden">
@@ -477,6 +477,12 @@
 		components: {
 			agile: VueAgile,
 			CountDown,
+		},
+		mounted(){
+
+			document.title = 'Home | HelloBabes'
+
+
 		},
 	}
 </script>
