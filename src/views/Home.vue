@@ -10,7 +10,7 @@
 		<div class="slide bg-image overflow-hidden h-screen w-screen">
 			<CountDown />
 		</div>
-		
+
 		<div class="slide bg-image3 overflow-hidden h-screen">
 			<div class="text-center items-end flex justify-center h-full">
 				<div class="text-3xl text-white font-bold p-5"></div>
@@ -93,8 +93,9 @@
 							healthy hair growth besides enhancing hair scalps to
 							be redefine & moist. With the taste of candy
 							berries, Hellobabes Hair Vitamin consists of 14
-							sachets, consumable anytime & anywhere. Hair vitamins supplements that have botanical
-							beverage Ingredients:
+							sachets, consumable anytime & anywhere. Hair
+							vitamins supplements that have botanical beverage
+							Ingredients:
 							<ul>
 								<li>
 									Mix berries
@@ -109,7 +110,8 @@
 									Acid folic Zinc
 								</li>
 								<li>
-									Vitamin A ,Vitamin B, Vitamin G ,Vitamin D, Vitamin C, Vitamin E
+									Vitamin A ,Vitamin B, Vitamin G ,Vitamin D,
+									Vitamin C, Vitamin E
 								</li>
 							</ul>
 						</span>
@@ -154,19 +156,23 @@
 					<div id="slider-1" class="mx-auto">
 						<div
 							class="bg-cover md:bg-center bg-center-left  h-auto text-white py-24 px-10 object-fill"
-							style="background-image: url(https://i.pinimg.com/originals/87/26/e6/8726e64911a8a7709ec95e0c6d1d5c51.jpg)"
+							style="background-image: url(https://lh3.googleusercontent.com/905j9pNEx6GgQXirhPXagnnNDtsiULLPIDENga-CXxMqWRKQMYnJc1oiQi8DUDRWtdSfYYBsNomsYxJsnDgLhimpVthlhp-eDCyu2hZF-RN8L3a8oBk82zbOQjzsqs-6HITOLhpMig=w2400)"
 						>
-							<div class="md:w-1/2">
+							<div class="md:w-1/2 md:hidden">
 								<p class="font-bold text-sm uppercase">
 									Oder Now
 								</p>
-								<p class="text-3xl text-secondary-600 font-bold">
-									Win our mystery<span class="text-white-500"
-										> gift</span
+								<p
+									class="text-3xl text-secondary-600 font-bold"
+								>
+									Win our mystery<span class="text-white-500">
+										gift</span
 									>
 								</p>
-								<p class="text-2xl mb-10 leading-none"> More <span class="text-secondary">Info</span></p>
-
+								<p class="text-2xl mb-10 leading-none">
+									More
+									<span class="text-secondary">Info</span>
+								</p>
 							</div>
 						</div>
 						<!-- container -->
@@ -354,8 +360,8 @@
 							</h2>
 							<p class="leading-relaxed">
 								Stimulates hair growth, prevents premature
-								primarying, and increases volume and shine in the
-								hair.Prevents Hair Loss & Thickens Hair
+								primarying, and increases volume and shine in
+								the hair.Prevents Hair Loss & Thickens Hair
 							</p>
 						</div>
 					</div>
@@ -382,7 +388,8 @@
 								FINISH
 							</h2>
 							<p class="leading-relaxed">
-								Maintaining your hair foor keep healthy and shiny
+								Maintaining your hair foor keep healthy and
+								shiny
 							</p>
 						</div>
 					</div>
@@ -403,9 +410,9 @@
 				>
 					Follow us on social media.
 				</h1>
-				<p class="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base">
-
-				</p>
+				<p
+					class="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base"
+				></p>
 			</div>
 			<div class="flex flex-wrap md:-m-2 -m-1">
 				<div class="flex flex-wrap w-1/2">
@@ -475,7 +482,7 @@
 </script>
 <style lang="scss">
 	.bg-image {
-		background: url(https://i.pinimg.com/originals/a9/1f/04/a91f04af59a7ba1ab8be0c906c08ae45.jpg);
+		background: url(https://lh3.googleusercontent.com/6Y2_NILevRDKX47Ba-2pKAPRFy4V_gBy9JIgnQGlltoRmsIqO_jPt_9p4772xB8USqxNGKHoebVR9jadEnWAyU8D6USJWhCmzZrltFKsYhCludbSOgjPZqB9nq5C-wT3tVnUA9IvUQ=w2400);
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: center;

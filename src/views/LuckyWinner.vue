@@ -1,12 +1,4 @@
 <template>
-	<section class="bg-white">
-		<div class="max-w-5xl px-6 py-16 mx-auto text-center">
-			<img
-				class="object-cover object-center w-full md:mt-16 mt-0 rounded-md shadow h-100"
-				src="https://i.pinimg.com/originals/e5/bf/d5/e5bfd506ba80aeb76fd004d47deb2109.jpg"
-			/>
-		</div>
-	</section>
 	<div class="mx-auto container lg:mt-50 mt-10 px-4 lg:px-0">
 		<div class="lg:flex justify-center">
 			<div class="lg:w-2/5">
@@ -91,14 +83,14 @@
 				<div class="xl:h-2/5 lg:mt-0 mt-8">
 					<img
 						class="w-full h-full bg-cover bg-center"
-						src="https://i.pinimg.com/originals/e5/bf/d5/e5bfd506ba80aeb76fd004d47deb2109.jpg"
+						src="https://lh3.googleusercontent.com/sDHehwtqwtTVv0UEyi02AM0VxeLLugQcyVjcXTv0KhRy_1_9qSqrubrr0uwt_hePOnsj68Ssf3FGLHEjg0eSyQrNjsFrTdRH-kK_VR0oGZqby1Ld9Z183WH1Bwgej7KhGaAO38YakQ=w2400"
 						alt=""
 					/>
 				</div>
 				<div class="w-full mt-8">
 					<img
 						class="w-full bg-cover bg-center"
-						src="https://cdn.tuk.dev/assets/templates/Fabterior/section6(3).png"
+						src="https://lh3.googleusercontent.com/QdYahuCwvVj4TM5IT7BwPUpkE3PGS7yI7SMzO1mLYfIISbJcpI2H0JYkO4AReF-stIWV7poQ3n7QYNTs1wYWPGZ6J78y0NTeJ0TaFC_s3hXRW9ShW3bQryAhwr_gvx60BaknIs8nDQ=w2400"
 						alt=""
 					/>
 				</div>
