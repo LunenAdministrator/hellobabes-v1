@@ -163,7 +163,6 @@
 								itemtype="http://schema.org/Product"
 								data-single-product-id="355318206"
 							>
-							
 								<div
 									class="ecsp-title"
 									itemprop="name"
