@@ -11,7 +11,7 @@
 			<img
 				src="https://lh3.googleusercontent.com/gbA6K8lLLtRmG6sFB1HPGodhzV1mlBv166eZi1pl0xQXgLUqTrCfy-oXNllt4Cj3JqHd7v_8VSR7b7MeQWEaSbBl6mLxA_aj0NDpUdb6mZH2LeQhY_A3cjALQQY7U3Qi0gorZFfcVA=w2400"
 				alt=""
-				class="object-fill md:object-scale-down"
+				class="object-fill md:object-scale-down h-full"
 			/>
 		</div>
 
