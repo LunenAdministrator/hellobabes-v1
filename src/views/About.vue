@@ -26,8 +26,7 @@
 							ADDRESS
 						</h2>
 						<p class="mt-1">
-							Photo booth tattooed prism, portland taiyaki hoodie
-							neutra typewriter
+							Hellobabes official's Shah Alam Selangor
 						</p>
 					</div>
 					<div class="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -37,14 +36,14 @@
 							EMAIL
 						</h2>
 						<a class="text-indigo-500 leading-relaxed"
-							>example@email.com</a
+							>e-store@hellobabes.com.my</a
 						>
 						<h2
 							class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4"
 						>
 							PHONE
 						</h2>
-						<p class="leading-relaxed">123-456-7890</p>
+						<p class="leading-relaxed">0350320618</p>
 					</div>
 				</div>
 			</div>
@@ -55,8 +54,7 @@
 					Feedback
 				</h2>
 				<p class="leading-relaxed mb-5 text-gray-600">
-					Post-ironic portland shabby chic echo park, banjo fashion
-					axe
+					Get in touch
 				</p>
 				<div class="relative mb-4">
 					<label for="name" class="leading-7 text-sm text-gray-600"
