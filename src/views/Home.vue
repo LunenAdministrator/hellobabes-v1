@@ -7,8 +7,12 @@
 		pause-on-dots-hover="pause-on-dots-hover"
 		autoplay="autoplay"
 	>
-		<div class="slide bg-image overflow-hidden h-screen w-screen">
-			<CountDown />
+		<div class="slide overflow-hidden h-screen w-screen">
+			<img
+				src="https://lh3.googleusercontent.com/gbA6K8lLLtRmG6sFB1HPGodhzV1mlBv166eZi1pl0xQXgLUqTrCfy-oXNllt4Cj3JqHd7v_8VSR7b7MeQWEaSbBl6mLxA_aj0NDpUdb6mZH2LeQhY_A3cjALQQY7U3Qi0gorZFfcVA=w2400"
+				alt=""
+				class="object-contain md:object-scale-down w-full"
+			/>
 		</div>
 
 		<div class="slide bg-image3 overflow-hidden h-screen">
