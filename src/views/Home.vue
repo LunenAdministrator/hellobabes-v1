@@ -155,10 +155,23 @@
 				<div class="sliderAx h-5/6 px-2 py-5">
 					<div id="slider-1" class="mx-auto">
 						<div
-							class="bg-cover md:bg-center bg-center-left  md:h-screen  text-white py-24 px-10 md:object-fill object-contain"
+							class="bg-fill md:bg-center bg-center-left  md:h-screen  text-white py-24 px-10 object-fill"
 							style="background-image: url(https://lh3.googleusercontent.com/905j9pNEx6GgQXirhPXagnnNDtsiULLPIDENga-CXxMqWRKQMYnJc1oiQi8DUDRWtdSfYYBsNomsYxJsnDgLhimpVthlhp-eDCyu2hZF-RN8L3a8oBk82zbOQjzsqs-6HITOLhpMig=w2400)"
 						>
-							<div class="md:w-1/2 md:hidden">
+							<div
+								class="ecsp ecsp-SingleProduct-v2 ecsp-Product ec-Product-355318206 mdi mdi-cart -ml-2 mr-2 px-10 py-2"
+								itemtype="http://schema.org/Product"
+								data-single-product-id="355318206"
+							>
+								<div
+									class="ecsp-title"
+									itemprop="name"
+									style="display:none;"
+									content="Hellobabes hair vitamin"
+								></div>
+								<div customprop="addtobag"></div>
+							</div>
+							<div class="md:w-1/2 hidden">
 								<p class="font-bold text-sm uppercase">
 									Oder Now
 								</p>
