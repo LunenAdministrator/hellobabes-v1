@@ -155,7 +155,7 @@
 				<div class="sliderAx h-5/6 px-2 py-5">
 					<div id="slider-1" class="mx-auto">
 						<div
-							class="bg-contain md:bg-center bg-center  md:h-screen  text-white py-24 md:object-fill object-contain"
+							class="bg-contain bg-center  md:h-screen  text-white py-24 md:object-fill object-contain"
 							style="background-image: url(https://lh3.googleusercontent.com/905j9pNEx6GgQXirhPXagnnNDtsiULLPIDENga-CXxMqWRKQMYnJc1oiQi8DUDRWtdSfYYBsNomsYxJsnDgLhimpVthlhp-eDCyu2hZF-RN8L3a8oBk82zbOQjzsqs-6HITOLhpMig=w2400)"
 						>
 							<div
@@ -163,6 +163,7 @@
 								itemtype="http://schema.org/Product"
 								data-single-product-id="355318206"
 							>
+							
 								<div
 									class="ecsp-title"
 									itemprop="name"
@@ -170,22 +171,6 @@
 									content="Hellobabes hair vitamin"
 								></div>
 								<div customprop="addtobag"></div>
-							</div>
-							<div class="md:w-1/2 hidden">
-								<p class="font-bold text-sm uppercase">
-									Oder Now
-								</p>
-								<p
-									class="text-3xl text-secondary-600 font-bold"
-								>
-									Win our mystery<span class="text-white-500">
-										gift</span
-									>
-								</p>
-								<p class="text-2xl mb-10 leading-none">
-									More
-									<span class="text-secondary">Info</span>
-								</p>
 							</div>
 						</div>
 						<!-- container -->
