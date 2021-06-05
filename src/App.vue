@@ -41,11 +41,11 @@
 					>
 						Home
 					</router-link>
-					<router-link to="/luckywinner"
+					<router-link
+						to="/luckywinner"
 						class="cursor-pointer h-full xl:flex items-center xl:ml-10 tracking-normal hidden relative"
-
 					>
-					Promotion's
+						Promotion's
 					</router-link>
 					<li class="mx-0 xl:mx-12 cursor-pointer">
 						<img
@@ -53,27 +53,24 @@
 							src="https://i.pinimg.com/originals/36/68/29/366829140ec2b01747e15deea330fadf.png"
 						/>
 					</li>
-					<router-link to="/faq"
+					<router-link
+						to="/faq"
 						class="hover:text-white cursor-pointer h-full xl:flex items-center mr-10 tracking-normal hidden"
 					>
 						What's new ?
 					</router-link>
-					<router-link to="/about"
+					<router-link
+						to="/about"
 						class="ec-cart-widget hover:text-white cursor-pointer h-full xl:flex items-center tracking-normal hidden"
 					>
-
-							 About us
-
+						About us
 					</router-link>
 				</ul>
 				<div
 					aria-haspopup="true"
 					class="cursor-pointer h-full xl:flex items-center justify-end hidden relative text-primary-800"
 					@click="dropdownHandler($event)"
-				>
-
-
-				</div>
+				></div>
 				<div
 					class="visible xl:hidden flex items-center text-primary-700 font-medium text-normal  "
 				>
@@ -84,36 +81,46 @@
 							class="flex xl:hidden cursor-pointer text-primary-600 text-base leading-3 tracking-normal mt-2 py-3 focus:outline-none"
 						>
 							<div class="flex items-center">
-								<router-link to="/" class="leading-6 ml-2 font-bold">
+								<router-link
+									to="/"
+									class="leading-6 ml-2 font-bold"
+								>
 									Home
 								</router-link>
 							</div>
 						</li>
 						<li
 							class="xl:hidden flex-col cursor-pointer text-primary-600 text-base leading-3 tracking-normal py-3 focus:outline-none flex justify-center"
-
 						>
 							<div class="flex items-center">
-								<router-link to="luckywinner" class="leading-6 ml-2 font-bold">
-									Products
+								<router-link
+									to="/luckywinner"
+									class="leading-6 ml-2 font-bold"
+								>
+									Promotion's
 								</router-link>
 							</div>
 						</li>
 						<li
 							class="xl:hidden cursor-pointer text-primary-600 text-base leading-3 tracking-normal py-3 hover:text-indigo-700 flex items-center focus:text-indigo-700 focus:outline-none"
 						>
-							<router-link to="/faq" class="leading-6 ml-2 font-bold">
+							<router-link
+								to="/faq"
+								class="leading-6 ml-2 font-bold"
+							>
 								What's New ?
 							</router-link>
 						</li>
 						<li
 							class="xl:hidden cursor-pointer text-primary-600 text-base leading-3 tracking-normal mb-2 py-3 hover:text-indigo-700 flex items-center focus:text-indigo-700 focus:outline-none"
 						>
-							<router-link to="/about" class="leading-6 ml-2 font-bold">
+							<router-link
+								to="/about"
+								class="leading-6 ml-2 font-bold"
+							>
 								About us
 							</router-link>
 						</li>
-
 					</ul>
 					<svg
 						@click="MenuHandler($event, true)"

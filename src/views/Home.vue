@@ -478,8 +478,7 @@
 			agile: VueAgile,
 			CountDown,
 		},
-		mounted(){
-
+		mounted() {
 			document.title = 'Home | HelloBabes'
 		},
 	}
