@@ -80,9 +80,9 @@
 							Hellobabes hair vitamin
 						</h1>
 						<span
-							class="text-yellow-500 text-4xl md:text-5xl mt-2 font-black block"
+							class="text-yellow-500 text-3xl md:text-5xl mt-2 font-black block"
 						>
-							5,000 bx
+							Pre order limited to 5,000 bx only
 						</span>
 					</div>
 					<div class="">
