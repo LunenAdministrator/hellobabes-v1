@@ -14,7 +14,7 @@
 				class="object-fill md:object-scale-down h-full hidden md:block"
 			/>
 			<img
-				src="https://lh3.googleusercontent.com/2N7N-MSaRq_Vbum85Hpd4rDam705GyYTYZkuyhLK3inZ3WtpBYWK0FtBEgVWejiTQqny7yBmV0_ORGtYNvwiXLEWNP_YXnT_CGPFAE_Ubko5e2rDUZcIoTfzEE48TRWh63uHCNuZmQ=w2400"
+				src="https://lh3.googleusercontent.com/uScP15lrjIt7NvfUNbUlEMfU51RQ15dVPaLH_KjAom7l7-5XnmGOwwXuYeEl1zmhKcR71jkZ-FpXszBHlLhYchOvOzmzPaIhoXqjxIVadwjqoFSHT2q1sLbYB6T23pwfkIoz3Y4O6g=w2400"
 				alt=""
 				class="object-cover pt-4 w-full h-full md:hidden"
 			/>
