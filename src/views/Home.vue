@@ -158,7 +158,7 @@
 							class="bg-cover bg-center bg-no-repeat md:h-screen  text-white py-24 md:object-fill object-fill object-center"
 							style="background-image: url(https://lh3.googleusercontent.com/905j9pNEx6GgQXirhPXagnnNDtsiULLPIDENga-CXxMqWRKQMYnJc1oiQi8DUDRWtdSfYYBsNomsYxJsnDgLhimpVthlhp-eDCyu2hZF-RN8L3a8oBk82zbOQjzsqs-6HITOLhpMig=w2400)"
 						>
-							<div class="flex justify-items-end items-end">
+							<div class="h-full flex justify-items-end items-end">
 								<div
 									class="ecsp ecsp-SingleProduct-v2 ecsp-Product ec-Product-355318206 mdi mdi-cart -ml-2 mr-2 px-10 py-2"
 									itemtype="http://schema.org/Product"
