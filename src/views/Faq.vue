@@ -40,12 +40,19 @@
 						<h2
 							class="font-medium title-font text-primary-900 mb-1 text-xl"
 						>
-							All Purchases will be delivered at 10th June 2021
+							All Purchases will be delivered on 10th June 2021
+
+
+
+
+
+
+
+
 						</h2>
 						<p class="leading-relaxed">
-							All purchases is a preorder. Free gift will be post
-							out same day with product postage<br />
-							** Depends On CMCO & Avaibality Courier Company **
+							All purchase is a preorder. Free gifts will be posted out the same day as product postage.
+* Depends On CMCO & Availability of the Courier Company *
 						</p>
 					</div>
 				</div>
@@ -88,10 +95,11 @@
 						<h2
 							class="font-medium title-font text-primary-900 mb-1 text-xl"
 						>
-							All pre order need for full payment
+							All pre-order must be fully paid
+
 						</h2>
 						<p class="leading-relaxed">
-							No Bookings or Advanced Payment
+							No bookings or advanced payment.
 						</p>
 					</div>
 				</div>
@@ -134,11 +142,11 @@
 						<h2
 							class="font-medium title-font text-primary-900 mb-1 text-xl"
 						>
-							limited to 5,000 box only
+							Limited to 5,000 Boxes only
 						</h2>
 						<p class="leading-relaxed">
-							Due to cmco and covid-19 our stock is limited very
-							limited.
+
+Due to CMCO and COVID-19, our stocks are very limited.
 						</p>
 					</div>
 				</div>
@@ -184,7 +192,7 @@
 							Durations
 						</h2>
 						<p class="leading-relaxed">
-							This offer is only eligable until 11th june 2021
+							This offer is eligible until 11th June 2021.
 						</p>
 					</div>
 				</div>

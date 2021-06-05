@@ -82,7 +82,7 @@
 						<span
 							class="text-yellow-500 text-3xl md:text-5xl mt-2 font-black block"
 						>
-							Pre order limited to 5,000 bx only
+							Pre order limited to 4,468 bx only
 						</span>
 					</div>
 					<div class="">
@@ -468,7 +468,7 @@
 </script>
 <style lang="scss">
 	.bg-image {
-		background: url(https://lh3.googleusercontent.com/6Y2_NILevRDKX47Ba-2pKAPRFy4V_gBy9JIgnQGlltoRmsIqO_jPt_9p4772xB8USqxNGKHoebVR9jadEnWAyU8D6USJWhCmzZrltFKsYhCludbSOgjPZqB9nq5C-wT3tVnUA9IvUQ=w2400);
+		background: url(https://lh3.googleusercontent.com/gbA6K8lLLtRmG6sFB1HPGodhzV1mlBv166eZi1pl0xQXgLUqTrCfy-oXNllt4Cj3JqHd7v_8VSR7b7MeQWEaSbBl6mLxA_aj0NDpUdb6mZH2LeQhY_A3cjALQQY7U3Qi0gorZFfcVA=w2400);
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: center;
