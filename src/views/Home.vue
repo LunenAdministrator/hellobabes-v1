@@ -13,7 +13,11 @@
 				alt=""
 				class="object-fill md:object-scale-down h-full hidden md:block"
 			/>
-			<img src="https://lh3.googleusercontent.com/2N7N-MSaRq_Vbum85Hpd4rDam705GyYTYZkuyhLK3inZ3WtpBYWK0FtBEgVWejiTQqny7yBmV0_ORGtYNvwiXLEWNP_YXnT_CGPFAE_Ubko5e2rDUZcIoTfzEE48TRWh63uHCNuZmQ=w2400" alt="" class="object-fill w-full h-full md:hidden">
+			<img
+				src="https://lh3.googleusercontent.com/2N7N-MSaRq_Vbum85Hpd4rDam705GyYTYZkuyhLK3inZ3WtpBYWK0FtBEgVWejiTQqny7yBmV0_ORGtYNvwiXLEWNP_YXnT_CGPFAE_Ubko5e2rDUZcIoTfzEE48TRWh63uHCNuZmQ=w2400"
+				alt=""
+				class="object-cover pt-4 w-full h-full md:hidden"
+			/>
 		</div>
 
 		<div class="slide bg-image3 overflow-hidden h-screen">
