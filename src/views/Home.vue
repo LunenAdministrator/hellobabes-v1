@@ -54,7 +54,7 @@
 						<span
 							class="text-yellow-500 text-3xl md:text-5xl mt-2 font-black block"
 						>
-							Closed for pre order
+							Pre Order Closed
 						</span>
 					</div>
 					<div class="">
