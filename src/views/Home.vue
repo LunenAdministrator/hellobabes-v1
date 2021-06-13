@@ -54,7 +54,7 @@
 						<span
 							class="text-yellow-500 text-3xl md:text-5xl mt-2 font-black block"
 						>
-							700 boxes left!!!
+							Closed for pre order
 						</span>
 					</div>
 					<div class="">
